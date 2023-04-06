@@ -22,7 +22,7 @@ public class JavaPrograms {
         abc.enterSquare();
         abc.printSquare();
 
-        System.out.println("\n##Exercise5");
+        System.out.println("\n===========Task5");
         Parent vladimir = new Parent();
         vladimir.setAndPrint();
         Child victor = new Child();
